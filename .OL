@@ -1,11 +1,11 @@
 -- Lista de URLs RAW (reemplaza con las verdaderas)
 local scripts = {
-    "https://raw.githubusercontent.com/PheonixHub/No-comer-eggs/refs/heads/main/No%20comer%20eggs",
-    "https://raw.githubusercontent.com/PheonixHub/Anti-volar/refs/heads/main/Anti%20volar",
-    "https://raw.githubusercontent.com/PheonixHub/Anti-lag/refs/heads/main/Anti%20lag",
-    "https://raw.githubusercontent.com/PheonixHub/Auto-pi-as/refs/heads/main/Pi%C3%B1as%20comer",
-    "https://raw.githubusercontent.com/PheonixHub/Auto-punch-remote/refs/heads/main/Auto%20punch",
-    "https://raw.githubusercontent.com/PheonixHub/Auto-egg-kill/refs/heads/main/Kill%20egg",}
+    "https://raw.githubusercontent.com/IJNTJNNPTJ/farm/refs/heads/main/.JL",
+    "https://raw.githubusercontent.com/IJNTJNNPTJ/farm/refs/heads/main/.HL",
+    "https://raw.githubusercontent.com/IJNTJNNPTJ/farm/refs/heads/main/.VL",
+    "https://raw.githubusercontent.com/IJNTJNNPTJ/farm/refs/heads/main/.PL",
+    "https://raw.githubusercontent.com/IJNTJNNPTJ/farm/refs/heads/main/.XL",
+    "https://raw.githubusercontent.com/IJNTJNNPTJ/farm/refs/heads/main/.ZL",}
 
 for _, url in ipairs(scripts) do
     local success, result = pcall(function()
